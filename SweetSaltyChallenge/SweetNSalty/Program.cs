@@ -102,13 +102,12 @@ while (iterator > 0)
     lineIterator = perLine;
 }
 
-// prints the counter returns
+// prints the counter returns and other data
 System.Console.WriteLine("");
-System.Console.WriteLine("Sweet count {0}", sweetCount);
-System.Console.WriteLine("Salty count {0}", saltyCount);
-System.Console.WriteLine("Sweet'NSalty count {0}", sweetNSaltyCount);
-
-// checks used earlier in production
-System.Console.WriteLine("Num1 {0}", num1);
-System.Console.WriteLine("Num2 {0}", num2);
-System.Console.WriteLine("Numbers Per Line {0}", perLine);
+System.Console.WriteLine("Summary");
+System.Console.WriteLine("Sweet Count: \t\t{0}", sweetCount);
+System.Console.WriteLine("Salty Count: \t\t{0}", saltyCount);
+System.Console.WriteLine("Sweet'NSalty count: \t{0}", sweetNSaltyCount);
+System.Console.WriteLine("Number 1: \t\t{0}", num1);
+System.Console.WriteLine("Number 2: \t\t{0}", num2);
+System.Console.WriteLine("Numbers Per Line: \t{0}", perLine);
