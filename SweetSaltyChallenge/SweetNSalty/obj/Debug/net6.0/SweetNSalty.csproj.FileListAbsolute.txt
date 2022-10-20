@@ -1,0 +1,15 @@
+C:\Revature\code\james-monty-carbonari-challenges\sweetsaltychallenge\sweetnsalty\obj\Debug\net6.0\SweetNSalty.csproj.AssemblyReference.cache
+C:\Revature\code\james-monty-carbonari-challenges\sweetsaltychallenge\sweetnsalty\obj\Debug\net6.0\SweetNSalty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature\code\james-monty-carbonari-challenges\sweetsaltychallenge\sweetnsalty\obj\Debug\net6.0\SweetNSalty.AssemblyInfoInputs.cache
+C:\Revature\code\james-monty-carbonari-challenges\sweetsaltychallenge\sweetnsalty\obj\Debug\net6.0\SweetNSalty.AssemblyInfo.cs
+C:\Revature\code\james-monty-carbonari-challenges\sweetsaltychallenge\sweetnsalty\obj\Debug\net6.0\SweetNSalty.csproj.CoreCompileInputs.cache
+C:\Revature\code\james-monty-carbonari-challenges\sweetsaltychallenge\sweetnsalty\bin\Debug\net6.0\SweetNSalty.exe
+C:\Revature\code\james-monty-carbonari-challenges\sweetsaltychallenge\sweetnsalty\bin\Debug\net6.0\SweetNSalty.deps.json
+C:\Revature\code\james-monty-carbonari-challenges\sweetsaltychallenge\sweetnsalty\bin\Debug\net6.0\SweetNSalty.runtimeconfig.json
+C:\Revature\code\james-monty-carbonari-challenges\sweetsaltychallenge\sweetnsalty\bin\Debug\net6.0\SweetNSalty.dll
+C:\Revature\code\james-monty-carbonari-challenges\sweetsaltychallenge\sweetnsalty\bin\Debug\net6.0\SweetNSalty.pdb
+C:\Revature\code\james-monty-carbonari-challenges\sweetsaltychallenge\sweetnsalty\obj\Debug\net6.0\SweetNSalty.dll
+C:\Revature\code\james-monty-carbonari-challenges\sweetsaltychallenge\sweetnsalty\obj\Debug\net6.0\refint\SweetNSalty.dll
+C:\Revature\code\james-monty-carbonari-challenges\sweetsaltychallenge\sweetnsalty\obj\Debug\net6.0\SweetNSalty.pdb
+C:\Revature\code\james-monty-carbonari-challenges\sweetsaltychallenge\sweetnsalty\obj\Debug\net6.0\SweetNSalty.genruntimeconfig.cache
+C:\Revature\code\james-monty-carbonari-challenges\sweetsaltychallenge\sweetnsalty\obj\Debug\net6.0\ref\SweetNSalty.dll
